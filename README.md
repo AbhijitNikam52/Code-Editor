@@ -1,2 +1,3 @@
 # Code-Editor
 Create a code editor using HTML, CSS, and JavaScript to allow users to write and execute code. It offers syntax highlighting, code editing, and a runnable environment for programming languages.
+A code editor built with HTML, CSS, and JavaScript is a web-based tool designed to facilitate code writing and execution. It provides a user-friendly interface for developers to compose, edit, and test their code in real-time. This editor typically incorporates syntax highlighting, making it easier to identify and correct code error and the editor runs the code directly within the browser. This tool is essential for web developers, allowing them to streamline their workflow and debug code efficiently.
